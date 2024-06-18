@@ -1,0 +1,119 @@
+.windok{
+    position: relative;
+    top: 20vh;
+    left: 15%;
+    font: 23px 'Montserrat';
+    color: rgba(197, 0, 0, 0.774);
+    font-weight: bolder;
+}
+.link{
+    text-decoration: none;
+    color:rgba(197, 0, 0, 0.774)
+}
+.winsirkop4{
+    position: relative;
+    top: 25vh;
+    left: 15%;
+    font: 23px 'Montserrat';
+    color: rgba(197, 0, 0, 0.774);
+    font-weight: bolder;
+}
+.winpolukop4{
+    position: relative;
+    top: 30vh;
+    left: 15%;
+    font: 23px 'Montserrat';
+    color: rgba(197, 0, 0, 0.774);
+    font-weight: bolder;
+}
+.winvarkop4{
+    position: relative;
+    top: 35vh;
+    left: 15%;
+    font: 23px 'Montserrat';
+    color: rgba(197, 0, 0, 0.774);
+    font-weight: bolder;
+}
+.windeli{
+    position: relative;
+    top: 40vh;
+    left: 15%;
+    font: 23px 'Montserrat';
+    color: rgba(197, 0, 0, 0.774);
+    font-weight: bolder;
+}
+
+.tabs-block {
+    display: block;
+    width: 100%;
+    max-width: 1400px;
+    color: #333;
+    margin: 0 auto  ;
+  }
+  
+  .tabs-block .tabs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .tabs-block .tabs > div {
+    display: block;
+    padding: 10px 15px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: '..';
+    cursor: pointer;
+  }
+  
+  .tabs-block .tabs > div.--active {
+    background: rgba(197, 0, 0, 0.774);
+    color: #fff;
+    font: 13px 'Montserrat';
+    font-weight: bolder;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.35);
+    cursor: default;
+  }
+  
+  .tabs-block .content {
+    display: block;
+    width: 100%;
+  }
+  
+  .tabs-block .content > div {
+    display: none;
+    width: 100%;
+  }
+  
+  .tabs-block .content > div.--active {
+    display: block;
+  }
+  .palka{
+    position: relative;
+    height: 2px;
+    background-color: rgba(197, 0, 0, 0.774);
+    width: 750px;
+    top:5vh;
+  }
+
+  .photki{
+    position: relative;
+    top:14vh;
+  }
+  .dok1{
+    position: relative;
+    top:15vh;
+    left: 45vh;
+    top:-110px;
+    font-weight: bold;
+    max-width: 1100px;
+    
+  }
+  .tabs{
+    position: relative;
+  }
